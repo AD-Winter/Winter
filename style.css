@@ -1385,8 +1385,8 @@ hr{
        margin: -100px 0 0 -50px;
        padding: 50px;
        padding-top: 125px;
-
-       background: #ededed;
+       text-decoration: none;
+       background-color: rgba(184, 184, 184, 0.977); 
        list-style-type: none;
        -webkit-font-smoothing: antialiased;
        /* to stop flickering of text in safari */
@@ -1397,9 +1397,17 @@ hr{
        transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0);
    }
 
-   #menu li {
+   #menu a li {
        padding: 10px 0;
-       font-size: 22px;
+       font-size: 24px;
+      
+   }
+    
+ #menu a {
+       
+       font-size: 24px;
+       text-decoration: none;
+       color: #414141
    }
 
    /*
@@ -1407,5 +1415,6 @@ hr{
  */
    #menuToggle input:checked ~ ul {
        transform: none;
+       
    }
 }
