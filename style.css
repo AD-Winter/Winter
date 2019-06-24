@@ -92,6 +92,8 @@ hr{
     font-size: 23.1px;
     font-weight: normal
 }
+
+
 /*--/Aiwuufga--*/
 
 
@@ -148,8 +150,15 @@ hr{
     font-size: 24px;
     text-decoration: none;
     color: #414141;
-    line-height: 0px;
+    line-height: 2px;
     margin-top: -16px
+}
+
+#d1{
+    display: inline-block;
+    margin-top: 25px;
+    font-size: 24px;
+    font-weight: normal
 }
 /*--/Paragraphen--*/
 
