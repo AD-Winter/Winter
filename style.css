@@ -570,6 +570,7 @@ hr{
     }
 
     body {
+        padding-top: 10px;
         max-width: 92%;
         background-color: #d3d0cd;
         margin: 0 auto;
@@ -602,13 +603,14 @@ hr{
 
     #b1 {
 
-        width: 200px;
+        width: 192px;
         left: 50%;
 
         margin-left: -100px;
         position: absolute;
 
-        top: 0px;
+        top: 10px;
+        z-index: 1
 
     }
 
@@ -621,12 +623,15 @@ hr{
     }
     
     #b3 {
+        position: relative;
         margin-left: 17px;
         margin-right: 17px;
         display: inline-block;
         font-weight: normal;
-        margin-top: 11px;
-        font-size: 22.1px
+        margin-top: 15px;
+        padding-bottom: 0px;
+        font-size: 22.1px;
+        z-index: 3
     }
 
     /*--/Aiwuufga--*/
