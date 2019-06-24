@@ -544,6 +544,15 @@ hr{
 /*--/Display:None--*/
 
 
+/*--Invisible--*/
+.v{
+    visibility: hidden;
+    height: 1px;
+    margin-top: -2px
+}
+/*--/Invisible--*/
+
+
 /*--Mobil--*/
 @media (max-width: 600px) {
 
