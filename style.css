@@ -549,6 +549,10 @@ hr{
 .t{
     display: none
 }
+
+#y{
+    display: none
+}
     
 /*--/Display:None--*/
 
@@ -1355,6 +1359,12 @@ hr{
     }
 
     /*--Paragraphen10--*/
+    
+    .v{
+        visibility: hidden;
+        line-height: 0.001px;
+        height: 0.1px;
+    }
 
 
    #menuToggle {
