@@ -175,6 +175,7 @@ hr{
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
+    overflow: visible;
     margin-top: 16px;
     margin-bottom: 80px
 }
