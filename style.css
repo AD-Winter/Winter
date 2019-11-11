@@ -450,7 +450,7 @@ hr{
 .s{
     width: 492px;
     float: right;
-    margin-top: -682px;
+    margin-top: -732px;
     margin-right: 15px;
     margin-bottom: 60px
     
@@ -460,8 +460,8 @@ hr{
     margin: 0 auto;
     padding: 3px;
     overflow: hidden;
-    margin-top: 17px;
-    padding-bottom: 61px;
+    margin-top: -7px;
+    padding-bottom: 51px;
     
 }
 
@@ -473,6 +473,12 @@ hr{
 }
 
 #s1{
+    margin-bottom: 67px;
+    margin-top: -30px
+}
+
+#s4{
+    padding-top: 18px;
     margin-bottom: 27px
 }
 
@@ -565,6 +571,92 @@ hr{
     margin-top: -2px
 }
 /*--/Invisible--*/
+
+/*--Navigation--*/
+#w0 {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 3px;
+    overflow: hidden;
+    margin-top: 16px
+}
+
+#w0 li {
+    display: inline;
+    float: left;
+    margin: 0 auto
+}
+
+#w0 li a {
+    display: block;
+    margin-left: 33px;
+    margin-right: 33px;
+    font-size: 24px;
+    text-decoration: none;
+    color: #fff
+}
+
+#w0 li a:hover {
+    transition: all ease 0.5s;
+    color: #d3d0cd
+}
+
+#w0 #a1{
+    color: #999997
+}
+
+#w1 {
+    border: 0.8px solid #fff;
+    width: 950px;
+    margin-top: 13px;
+    margin-bottom: 70px
+}
+/*--/Navigation--*/
+
+.weihnachten-bg{
+    background-image: url(bilder/w2@2x.png);
+    background-size: 900px
+}
+
+.weihnachten{
+    
+    background-image: url(bilder/weihnachten@2x.png);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #1E243B;
+    height: 600px
+}
+
+/*--Paragraphen3--*/
+.x{
+    width: 671px;
+    float: right;
+    margin-top: -20px;
+    margin-right: 30px;
+}
+
+#x0{
+    margin-bottom: -300px;
+    margin: 0 auto;
+    padding: 3px;
+    overflow: hidden;
+    margin-top: 16px;
+}
+
+#x0 li{
+    font-size: 22px;
+    margin-top:0px;
+    color: #fff
+}
+
+
+li#x1{
+    font-size: 22px;
+    margin-top:30px;
+    color: #fff
+}
+/*--/Paragraphen3--*/
 
 
 /*--Mobil--*/
@@ -1194,7 +1286,8 @@ hr{
     /*--Paragraphen8--*/
     
     #s1 {
-        margin-bottom: 27px
+        margin-bottom: 27px;
+        margin-top: -20px
     }
 
     #s2 {
@@ -1496,4 +1589,118 @@ hr{
        transform: none;
        
    }
+    
+    
+    
+    /*--Navigation--*/
+#w0 {
+    display: none
+}
+
+#w0 li {
+    display: none
+}
+
+#w0 li a {
+   display: none
+}
+
+#w0 li a:hover {
+    display: none
+}
+
+#w0 #a1{
+    display: none
+}
+
+#w1 {
+    display: none
+}
+/*--/Navigation--*/
+
+.weihnachten-bg{
+    background-image: url(bilder/w2@2x.png);
+    background-color: #1E243B;
+}
+
+.weihnachten{
+    
+    background-image: url();
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    height: 600px
+}
+
+/*--Paragraphen3--*/
+.x{
+    width: 671px;
+    float: right;
+    margin-top: 100px;
+    margin-right: 30px;
+}
+
+#x0{
+    margin-bottom: -300px;
+    margin: 0 auto;
+    padding: 3px;
+    overflow: hidden;
+    margin-top: 16px;
+}
+
+#x0 li{
+    font-size: 22px;
+    margin-top:0px;
+    color: #fff
+}
+
+
+/*--/Paragraphen3--*/
+    
+    
+/*--Paragraphen3--*/
+    
+    .x {
+         max-width: 100%;
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-right: 13px;
+        float: right;
+        margin-bottom: -50px
+
+    }
+
+    #x0 {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 3px;
+        overflow: hidden;
+        margin-top: 16px;
+    }
+
+    #x0 li {
+        display: block;
+        float: left;
+        
+        font-size: 20px;
+        text-decoration: none;
+        color: #fff;
+        line-height: 26px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        margin-left: 25px;
+        text-align: justify
+    }
+    
+    li#x1{
+    font-size: 22px;
+    margin-top:40px;
+        margin-bottom: 50px;
+    color: #fff
+}
+    /*--/Paragraphen3--*/
+
+
+
 }
