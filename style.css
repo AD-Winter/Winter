@@ -1,9 +1,9 @@
-@font-face { 
+@font-face {
     font-family: 'Futura-Book font';
-    src: url('schriften/Futura-Book font.ttf') format('truetype'); 
+    src: url('schriften/Futura-Book font.ttf') format('truetype');
 }
 
-body{
+body {
     width: 978px;
     background-color: #d3d0cd;
     margin: 0 auto;
@@ -41,27 +41,28 @@ body{
     color: #999997
 }
 
-#a0 #a1{
+#a0 #a1 {
     color: #999997
 }
 
 
-hr{
+hr {
     border: 0.8px solid #999997;
     width: 950px;
     margin-top: 13px;
     margin-bottom: 70px
 }
+
 /*--/Navigation--*/
 
 
 /*--Aiwuufga--*/
-.b{
+.b {
     width: 950px;
     margin: 0 auto
 }
 
-#b0{
+#b0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -69,24 +70,24 @@ hr{
     margin-top: 16px
 }
 
-#b0 li{
+#b0 li {
     display: inline;
     float: left;
     margin: 0 auto
 }
 
-#b1{
-    width:380px;
+#b1 {
+    width: 380px;
     margin-left: -8px
 }
 
-#b2{
+#b2 {
     display: inline-block;
     margin-top: 57px;
     font-size: 23.1px
 }
 
-#b3{
+#b3 {
     display: inline-block;
     margin-top: 57px;
     font-size: 23.1px;
@@ -98,13 +99,13 @@ hr{
 
 
 /*--Galerie--*/
-.c{
+.c {
     width: 950px;
     margin: 0 auto;
-    
+
 }
 
-#c0{
+#c0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -112,26 +113,27 @@ hr{
     margin-top: 16px
 }
 
-#c0 li{
+#c0 li {
     display: inline;
     float: left;
     margin: 0 auto
 }
 
-#c0 li img{
+#c0 li img {
     margin-left: -1.21px
 }
+
 /*--/Galerie--*/
 
 
 /*--Paragraphen--*/
-.d{
+.d {
     width: 950px;
     margin: 0 auto;
-    
+
 }
 
-#d0{
+#d0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -143,7 +145,7 @@ hr{
     margin-top: 107px
 }
 
-#d0 li{
+#d0 li {
     display: block;
     float: left;
     margin: 0 auto;
@@ -154,24 +156,24 @@ hr{
     margin-top: -16px
 }
 
-#d1{
+#d1 {
     display: inline-block;
     margin-top: 25px;
     font-size: 24px;
     font-weight: normal
 }
+
 /*--/Paragraphen--*/
 
 
 /*--Footer--*/
-.e{
+.e {
     width: 400px;
     margin: 0 auto;
     margin-top: 300px
-    
 }
 
-#e0{
+#e0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -180,7 +182,7 @@ hr{
     margin-bottom: 80px
 }
 
-#e0 li{
+#e0 li {
     display: inline;
     text-align: center;
     color: #F3F0FC;
@@ -188,13 +190,12 @@ hr{
     line-height: 8px
 }
 
-#e1{
+#e1 {
     width: 400px;
     margin-bottom: -15px
-        
 }
 
-#e2{
+#e2 {
     text-decoration: none;
     display: inline;
     text-align: center;
@@ -202,31 +203,33 @@ hr{
     font-size: 21px;
     margin-left: 150px
 }
+
 /*--/Footer--*/
 
 
 /*--Bild--*/
-.f{
+.f {
     width: 950px;
     margin: 0 auto;
     margin-top: 30px
 }
 
-.f img{
+.f img {
     width: 950px;
     border-style: none
 }
+
 /*--/Bild--*/
 
 
 /*--Paragraphen2--*/
-.g{
+.g {
     width: 950px;
     margin: 0 auto;
     margin-bottom: -250px
 }
 
-#g0{
+#g0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -234,27 +237,27 @@ hr{
     margin-top: 16px;
     font-size: 25px;
     text-align: justify
-   
 }
 
-#g0 li{
+#g0 li {
     display: inline;
     float: left;
     margin: 0 auto;
     margin-top: -20px
 }
+
 /*--Paragraphen2--*/
 
 
 /*--Galerie2--*/
-.h{
+.h {
     display: block;
     width: 323px;
     margin-left: 13px;
     margin-top: 22px
 }
 
-#h0{
+#h0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -263,23 +266,24 @@ hr{
 }
 
 
-#h0 li img{
+#h0 li img {
     width: 323px;
     height: 323px;
     margin-bottom: 32px
 }
+
 /*--/Galerie2--*/
 
 
 /*--Paragraphen3--*/
-.i{
+.i {
     width: 581px;
     float: right;
     margin-top: -2182px;
     margin-right: 15px;
 }
 
-#i0{
+#i0 {
     margin-bottom: -300px;
     margin: 0 auto;
     padding: 3px;
@@ -287,21 +291,22 @@ hr{
     margin-top: 16px;
 }
 
-#i0 li{
+#i0 li {
     font-size: 22px;
     margin-bottom: -2px
 }
+
 /*--/Paragraphen3--*/
 
 
 /*--Galerie3--*/
-.j{
+.j {
     width: 950px;
     margin: 0 auto;
-    
+
 }
 
-#j0{
+#j0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -310,28 +315,29 @@ hr{
     width: 950px
 }
 
-#j0 li{
+#j0 li {
     display: inline;
     float: left;
     margin: 0 auto
 }
 
-#j0 li img{
+#j0 li img {
     width: 474px;
     height: 356px;
     margin-left: -1.21px
 }
+
 /*--/Galerie3--*/
 
 
 /*--Paragraphen4--*/
-.k{
+.k {
     width: 950px;
     margin: 0 auto;
     margin-bottom: -25px
 }
 
-#k0{
+#k0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -339,34 +345,35 @@ hr{
     margin-top: 7px;
     font-size: 25px;
     text-align: justify
-   
 }
 
-#k0 li{
+#k0 li {
     display: inline;
     float: left;
     margin: 0 auto;
     margin-top: -20px
 }
+
 /*--/Paragraphen4--*/
 
 
 /*--hr--*/
-#j0a{
+#j0a {
     background-color: #d3d0cd;
     margin-bottom: -240px;
     visibility: hidden
 }
+
 /*--/hr--*/
 
 
 /*--Paragraphen5--*/
-.b{
+.b {
     width: 950px;
     margin: 0 auto
 }
 
-#b0{
+#b0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -374,22 +381,23 @@ hr{
     margin-top: 16px
 }
 
-#b0 li{
+#b0 li {
     display: inline;
     float: left;
     margin: 0 auto
 }
+
 /*--/Paragraphen5--*/
 
 
 /*--Paragraphen6/7--*/
-.m{
+.m {
     width: 950px;
     margin: 0 auto;
     margin-top: 50px
 }
 
-#m0{
+#m0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -398,38 +406,43 @@ hr{
     margin-bottom: 50px
 }
 
-#m0 li{
+#m0 li {
     display: inline;
     float: left;
     margin: 0 auto;
     font-size: 23px
 }
-#m1{
+
+#m1 {
     width: 950px
 }
-#m2{
+
+#m2 {
     margin-left: -41px
 }
-#m2 li{
-   width: 900px;
-   margin-bottom: 2px
+
+#m2 li {
+    width: 900px;
+    margin-bottom: 2px
 }
-#m3{
+
+#m3 {
     margin-bottom: 20px;
     visibility: hidden
 }
+
 /*--/Paragraphen6/7--*/
 
 
 /*--Galerie4--*/
-.n{
+.n {
     display: block;
     width: 413px;
     margin-left: 13px;
     margin-top: 22px
 }
 
-#n0{
+#n0 {
     list-style-type: none;
     margin: 0 auto;
     padding: 3px;
@@ -438,138 +451,143 @@ hr{
 }
 
 
-#n0 li img{
+#n0 li img {
     width: 413px;
     height: 286px;
     margin-bottom: 69px
 }
+
 /*--/Galerie4--*/
 
 
 /*--Paragraphen8--*/
-.s{
+.s {
     width: 492px;
     float: right;
     margin-top: -732px;
     margin-right: 15px;
     margin-bottom: 60px
-    
 }
 
-#s0{
+#s0 {
     margin: 0 auto;
     padding: 3px;
     overflow: hidden;
     margin-top: -7px;
     padding-bottom: 51px;
-    
+
 }
 
-#s0 li{
+#s0 li {
     margin-top: 1px;
     font-size: 22px;
     list-style: none;
     font-size: 21.6px
 }
 
-#s1{
+#s1 {
     margin-bottom: 67px;
     margin-top: -30px
 }
 
-#s4{
+#s4 {
     padding-top: 18px;
     margin-bottom: 27px
 }
 
-#s2{
+#s2 {
     margin-left: -40px
 }
-#s3{
+
+#s3 {
     margin-left: -40px
 }
+
 /*--/Paragraphen8--*/
 
 
 /*--Paragraphen9--*/
-.p{
+.p {
     width: 492px;
     margin-left: -28px;
     margin-top: -30px
-    
 }
 
-#p0{
+#p0 {
     margin: 0 auto;
     padding: 3px;
     overflow: hidden;
     margin-top: 16px;
     margin-bottom: 85px;
-    
+
 }
 
-#p0 li{
+#p0 li {
     margin-top: 1px;
     font-size: 22px;
     list-style: none;
     font-size: 21.6px
 }
 
-#p2{
+#p2 {
     margin-bottom: 34px
 }
 
-#p3{
+#p3 {
     margin-bottom: 34px;
     text-decoration: none;
     color: #414141
 }
+
 /*--/Paragraphen9--*/
 
 
 /*--Karte--*/
-#q0{
-   width: 492px;
+#q0 {
+    width: 492px;
     height: 597px;
     float: right;
     margin-top: -719px;
     margin-right: 15px;
-    
+
 }
+
 /*--/Karte-*/
-    
+
 
 /*--hr2--*/
-#j0b{
+#j0b {
     background-color: #d3d0cd;
     margin-bottom: -310px;
     visibility: hidden
 }
+
 /*--/hr2--*/
 
 
 /*--Display:None--*/
-#menuToggle{
+#menuToggle {
     display: none
 }
 
-.t{
+.t {
     display: none
 }
 
-#y{
+#y {
     display: none
 }
-    
+
 /*--/Display:None--*/
 
 
 /*--Invisible--*/
-.v{
+.v {
     visibility: hidden;
     height: 1px;
     margin-top: -2px
 }
+
 /*--/Invisible--*/
 
 /*--Navigation--*/
@@ -601,7 +619,7 @@ hr{
     color: #d3d0cd
 }
 
-#w0 #a1{
+#w0 #a1 {
     color: #999997
 }
 
@@ -611,15 +629,16 @@ hr{
     margin-top: 13px;
     margin-bottom: 70px
 }
+
 /*--/Navigation--*/
 
-.weihnachten-bg{
+.weihnachten-bg {
     background-image: url(bilder/w2@2x.png);
     background-size: 900px
 }
 
-.weihnachten{
-    
+.weihnachten {
+
     background-image: url(bilder/weihnachten@2x.png);
     background-size: 100%;
     background-position: center;
@@ -629,14 +648,14 @@ hr{
 }
 
 /*--Paragraphen3--*/
-.x{
+.x {
     width: 671px;
     float: right;
     margin-top: -20px;
     margin-right: 30px;
 }
 
-#x0{
+#x0 {
     margin-bottom: -300px;
     margin: 0 auto;
     padding: 3px;
@@ -644,18 +663,19 @@ hr{
     margin-top: 16px;
 }
 
-#x0 li{
+#x0 li {
     font-size: 22px;
-    margin-top:0px;
+    margin-top: 0px;
     color: #fff
 }
 
 
-li#x1{
+li#x1 {
     font-size: 22px;
-    margin-top:30px;
+    margin-top: 30px;
     color: #fff
 }
+
 /*--/Paragraphen3--*/
 
 
@@ -670,11 +690,11 @@ li#x1{
     hr {
         display: none
     }
-    
-    .c{
+
+    .c {
         display: none
     }
-    
+
 
     /*--/Display:None--*/
 
@@ -708,13 +728,10 @@ li#x1{
         padding: 3px;
         overflow: hidden;
         margin-top: 16px;
-        
+
     }
 
-    #b0 li {
-        
-        
-    }
+    #b0 li {}
 
     #b1 {
 
@@ -726,7 +743,6 @@ li#x1{
 
         top: 10px;
         z-index: 1
-
     }
 
     #b2 {
@@ -736,7 +752,7 @@ li#x1{
         margin-top: 31px;
         font-size: 22.1px
     }
-    
+
     #b3 {
         position: relative;
         margin-left: 17px;
@@ -765,7 +781,7 @@ li#x1{
         transition: transform .1s;
         z-index: 0;
     }
-    
+
     #t0 li {
         list-style: none;
         margin-left: -80px
@@ -779,7 +795,7 @@ li#x1{
         padding-bottom: 0px;
         padding-top: 0px;
         position: static;
-        
+
         margin: 0 auto;
         -webkit-box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
         -moz-box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
@@ -796,22 +812,22 @@ li#x1{
         position: inherit;
         z-index: 10010
     }
-    
-    #t5{
+
+    #t5 {
         display: none
     }
+
     /*--/Galerie--*/
 
 
     /*--Paragraphen--*/
     .d {
-         max-width: 100%;
+        max-width: 100%;
         margin-top: -20px;
         margin-left: 10px;
         margin-right: 10px;
         float: right;
         margin-bottom: -30px
-
     }
 
     #d0 {
@@ -825,7 +841,7 @@ li#x1{
     #d0 li {
         display: block;
         float: left;
-        
+
         font-size: 22px;
         text-decoration: none;
         color: #414141;
@@ -838,14 +854,14 @@ li#x1{
     /*--/Paragraphen--*/
 
 
-    /*--Footer--*/ 
+    /*--Footer--*/
     .e {
         max-width: 100%;
         margin-left: 10px;
         margin-right: 10px;
         margin-top: 80px;
         float: right;
-        
+
     }
 
     #e0 {
@@ -865,8 +881,8 @@ li#x1{
         font-size: 15px;
         line-height: 20px;
     }
-    
-    #e0 li p{
+
+    #e0 li p {
         width: 200px;
         left: 50%;
         margin-top: 50px;
@@ -874,11 +890,11 @@ li#x1{
         padding-bottom: 70px;
         position: absolute;
     }
-    
-    
+
+
 
     #e1 {
-        
+
         width: 200px;
         left: 50%;
         margin-bottom: 140px;
@@ -896,18 +912,18 @@ li#x1{
         font-size: 15px;
         margin-left: -100px;
         position: absolute;
-        
+
     }
-    
-    #e3{
-    display: none
+
+    #e3 {
+        display: none
     }
 
     /*--/Footer--*/
 
 
     /*--Bild--*/
-    
+
 
     .f img {
         width: 100%;
@@ -917,7 +933,7 @@ li#x1{
         padding-bottom: 0px;
         padding-top: 0px;
         position: static;
-        
+
         margin: 0 auto;
         -webkit-box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
         -moz-box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
@@ -934,22 +950,21 @@ li#x1{
         position: inherit;
         z-index: 10010
     }
-    
-    
+
+
 
     /*--/Bild--*/
 
 
     /*--Paragraphen2--*/
-    
+
     .g {
-         max-width: 100%;
+        max-width: 100%;
         margin-top: 20px;
         margin-left: 10px;
         margin-right: 10px;
         float: right;
         margin-bottom: -30px
-
     }
 
     #g0 {
@@ -963,7 +978,7 @@ li#x1{
     #g0 li {
         display: block;
         float: left;
-        
+
         font-size: 22px;
         text-decoration: none;
         color: #414141;
@@ -972,11 +987,12 @@ li#x1{
         margin-bottom: -15px;
         margin-left: 25px
     }
+
     /*--Paragraphen2--*/
 
 
     /*--Galerie2--*/
-    
+
     #h0 {
         margin: 0 auto;
         width: 100%;
@@ -989,12 +1005,12 @@ li#x1{
         transition: transform .1s;
         z-index: 0;
         padding: 0px;
-        overflow:inherit;
+        overflow: inherit;
     }
-    
+
     #h0 li {
         list-style: none;
-        
+
         margin: 0 auto
     }
 
@@ -1007,7 +1023,7 @@ li#x1{
         padding-top: 0px;
         position: static;
         margin-bottom: 0px;
-        margin-right:0px;
+        margin-right: 0px;
         -webkit-box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
         -moz-box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
         box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
@@ -1023,23 +1039,23 @@ li#x1{
         position: inherit;
         z-index: 10010
     }
-    
-    #t5{
+
+    #t5 {
         display: none
     }
+
     /*--/Galerie2--*/
 
 
     /*--Paragraphen3--*/
-    
+
     .i {
-         max-width: 100%;
+        max-width: 100%;
         margin-top: -50px;
         margin-left: 10px;
         margin-right: 10px;
         float: right;
         margin-bottom: -50px
-
     }
 
     #i0 {
@@ -1053,7 +1069,7 @@ li#x1{
     #i0 li {
         display: block;
         float: left;
-        
+
         font-size: 20px;
         text-decoration: none;
         color: #414141;
@@ -1062,6 +1078,7 @@ li#x1{
         margin-bottom: 8px;
         margin-left: 25px
     }
+
     /*--/Paragraphen3--*/
 
 
@@ -1078,12 +1095,12 @@ li#x1{
         transition: transform .1s;
         z-index: 0;
         padding: 0px;
-        overflow:inherit;
+        overflow: inherit;
     }
-    
+
     #j0 li {
         list-style: none;
-        
+
         margin: 0 auto
     }
 
@@ -1096,7 +1113,7 @@ li#x1{
         padding-top: 0px;
         position: static;
         margin-bottom: 0px;
-        margin-right:0px;
+        margin-right: 0px;
         -webkit-box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
         -moz-box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
         box-shadow: 0px 0px 53px -15px rgba(0, 0, 0, 0);
@@ -1112,19 +1129,19 @@ li#x1{
         position: inherit;
         z-index: 10010
     }
+
     /*--/Galerie3--*/
 
 
     /*--Paragraphen4--*/
-    
+
     .k {
-         max-width: 100%;
+        max-width: 100%;
         margin-top: -50px;
         margin-left: 10px;
         margin-right: 10px;
         float: right;
         margin-bottom: 25px
-
     }
 
     #k0 {
@@ -1138,7 +1155,7 @@ li#x1{
     #k0 li {
         display: block;
         float: left;
-        
+
         font-size: 20px;
         text-decoration: none;
         color: #414141;
@@ -1147,6 +1164,7 @@ li#x1{
         margin-bottom: 8px;
         margin-left: 25px
     }
+
     /*--/Paragraphen4--*/
 
 
@@ -1186,7 +1204,7 @@ li#x1{
     /*--Paragraphen6/7--*/
     #m1 {
         padding-top: 0px;
-       max-width: 96%;
+        max-width: 96%;
         height: 50px
     }
 
@@ -1205,18 +1223,17 @@ li#x1{
         visibility: hidden
     }
 
-    #m4{
+    #m4 {
         padding-top: 40px
     }
-    
+
     .m {
-         max-width: 100%;
+        max-width: 100%;
         margin-top: -50px;
         margin-left: 10px;
         margin-right: 10px;
         float: right;
         margin-bottom: 25px
-
     }
 
     #m0 {
@@ -1231,7 +1248,7 @@ li#x1{
     #m0 li {
         display: block;
         float: left;
-        
+
         font-size: 20px;
         text-decoration: none;
         color: #414141;
@@ -1240,6 +1257,7 @@ li#x1{
         margin-bottom: 8px;
         margin-left: 25px
     }
+
     /*--/Paragraphen6/7--*/
 
 
@@ -1248,7 +1266,7 @@ li#x1{
         list-style-type: none;
         margin: 0 auto;
         padding: 3px;
-        overflow:inherit;
+        overflow: inherit;
         margin-top: 96px
     }
 
@@ -1277,14 +1295,14 @@ li#x1{
         position: inherit;
         z-index: 10010
     }
-    
-    
+
+
 
     /*--/Galerie4--*/
 
 
     /*--Paragraphen8--*/
-    
+
     #s1 {
         margin-bottom: 27px;
         margin-top: -20px
@@ -1294,20 +1312,17 @@ li#x1{
         margin-left: -40px;
         margin-bottom: 715px
     }
-    
-    #s3{
-        
-    }
 
-    
+    #s3 {}
+
+
     .s {
-         max-width: 100%;
+        max-width: 100%;
         margin-top: -1247px;
         margin-left: 10px;
         margin-right: 10px;
         float: right;
         margin-bottom: 25px
-
     }
 
     #s0 {
@@ -1315,13 +1330,13 @@ li#x1{
         margin: 0 auto;
         padding: 3px;
         overflow: hidden;
-        
+
     }
 
     #s0 li {
         display: block;
         float: left;
-        
+
         font-size: 20px;
         text-decoration: none;
         color: #414141;
@@ -1330,6 +1345,7 @@ li#x1{
         margin-bottom: 8px;
         margin-left: 25px
     }
+
     /*--/Paragraphen8--*/
 
 
@@ -1365,15 +1381,14 @@ li#x1{
         text-decoration: none;
         color: #414141
     }
-    
+
     .p {
-         max-width: 100%;
+        max-width: 100%;
         margin-top: 40px;
         margin-left: 0px;
         margin-right: 10px;
         float: right;
         margin-bottom: 25px
-
     }
 
     #p0 {
@@ -1410,8 +1425,8 @@ li#x1{
         margin-top: -250px;
         display: block;
     }
-    
-    
+
+
 
     /*--/Karte-*/
 
@@ -1424,8 +1439,8 @@ li#x1{
     }
 
     /*--/hr2--*/
-    
-    
+
+
     /*--Paragraphen10--*/
     .u {
         max-width: 95%;
@@ -1441,10 +1456,10 @@ li#x1{
         padding: 3px;
         overflow: hidden;
         margin-top: 16px;
-        
+
     }
 
-    #u0  {
+    #u0 {
         margin-left: 17px;
         margin-right: 17px;
         display: inline-block;
@@ -1453,222 +1468,222 @@ li#x1{
     }
 
     /*--Paragraphen10--*/
-    
-    .v{
+
+    .v {
         visibility: hidden;
         line-height: 0.001px;
         height: 0.1px;
     }
 
 
-   #menuToggle {
-       width: 40px;
-       display: block;
-       position: relative;
-       top: 17px;
-       left: 17px;
+    #menuToggle {
+        width: 40px;
+        display: block;
+        position: relative;
+        top: 17px;
+        left: 17px;
 
-       z-index: 4;
+        z-index: 4;
 
-       -webkit-user-select: none;
-       user-select: none;
-   }
+        -webkit-user-select: none;
+        user-select: none;
+    }
 
-   #menuToggle input {
-       display: block;
-       width: 40px;
-       height: 32px;
-       position: absolute;
-       top: -7px;
-       left: -5px;
+    #menuToggle input {
+        display: block;
+        width: 40px;
+        height: 32px;
+        position: absolute;
+        top: -7px;
+        left: -5px;
 
-       cursor: pointer;
+        cursor: pointer;
 
-       opacity: 0;
-       /* hide this */
-       z-index: 2;
-       /* and place it over the hamburger */
+        opacity: 0;
+        /* hide this */
+        z-index: 2;
+        /* and place it over the hamburger */
 
-       -webkit-touch-callout: none;
-   }
+        -webkit-touch-callout: none;
+    }
 
-   /*
+    /*
  * Just a quick hamburger
  */
-   #menuToggle span {
-       display: block;
-       width: 33px;
-       height: 4px;
-       margin-bottom: 5px;
-       position: relative;
-       
-       background: #768187;
-       border-radius: 3px;
+    #menuToggle span {
+        display: block;
+        width: 33px;
+        height: 4px;
+        margin-bottom: 5px;
+        position: relative;
 
-       z-index: 1;
+        background: #768187;
+        border-radius: 3px;
 
-       transform-origin: 4px 0px;
+        z-index: 1;
 
-       transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
-           background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
-           opacity 0.55s ease;
-   }
+        transform-origin: 4px 0px;
 
-   #menuToggle span:first-child {
-       transform-origin: 0% 0%;
-   }
+        transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
+            background 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0),
+            opacity 0.55s ease;
+    }
 
-   #menuToggle span:nth-last-child(2) {
-       transform-origin: 0% 100%;
-   }
+    #menuToggle span:first-child {
+        transform-origin: 0% 0%;
+    }
 
-   /* 
+    #menuToggle span:nth-last-child(2) {
+        transform-origin: 0% 100%;
+    }
+
+    /* 
  * Transform all the slices of hamburger
  * into a crossmark.
  */
-   #menuToggle input:checked ~ span {
-       opacity: 1;
-       transform: rotate(45deg) translate(-2px, -1px);
-       background: #768187;
-   }
+    #menuToggle input:checked ~ span {
+        opacity: 1;
+        transform: rotate(45deg) translate(-2px, -1px);
+        background: #768187;
+    }
 
-   /*
+    /*
  * But let's hide the middle one.
  */
-   #menuToggle input:checked ~ span:nth-last-child(3) {
-       opacity: 0;
-       transform: rotate(0deg) scale(0.2, 0.2);
-   }
+    #menuToggle input:checked ~ span:nth-last-child(3) {
+        opacity: 0;
+        transform: rotate(0deg) scale(0.2, 0.2);
+    }
 
-   /*
+    /*
  * Ohyeah and the last one should go the other direction
  */
-   #menuToggle input:checked ~ span:nth-last-child(2) {
-       transform: rotate(-45deg) translate(0, -1px);
-   }
+    #menuToggle input:checked ~ span:nth-last-child(2) {
+        transform: rotate(-45deg) translate(0, -1px);
+    }
 
-   /*
+    /*
  * Make this absolute positioned
  * at the top left of the screen
  */
-   #menu {
-       position: absolute;
-       width: 320px;
-       margin: -100px 0 0 -50px;
-       padding: 50px;
-       padding-top: 125px;
-       text-decoration: none;
-       background-color: rgba(184, 184, 184, 0.977); 
-       list-style-type: none;
-       -webkit-font-smoothing: antialiased;
-       /* to stop flickering of text in safari */
+    #menu {
+        position: absolute;
+        width: 320px;
+        margin: -100px 0 0 -50px;
+        padding: 50px;
+        padding-top: 125px;
+        text-decoration: none;
+        background-color: rgba(184, 184, 184, 0.977);
+        list-style-type: none;
+        -webkit-font-smoothing: antialiased;
+        /* to stop flickering of text in safari */
 
-       transform-origin: 0% 0%;
-       transform: translate(-100%, 0);
+        transform-origin: 0% 0%;
+        transform: translate(-100%, 0);
 
-       transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0);
-   }
+        transition: transform 0.5s cubic-bezier(0.77, 0.2, 0.05, 1.0);
+    }
 
-   #menu a li {
-       padding: 10px 0;
-       font-size: 24px;
-      
-   }
-    
- #menu a {
-       
-       font-size: 24px;
-       text-decoration: none;
-       color: #414141
-   }
+    #menu a li {
+        padding: 10px 0;
+        font-size: 24px;
 
-   /*
+    }
+
+    #menu a {
+
+        font-size: 24px;
+        text-decoration: none;
+        color: #414141
+    }
+
+    /*
  * And let's slide it in from the left
  */
-   #menuToggle input:checked ~ ul {
-       transform: none;
-       
-   }
-    
-    
-    
+    #menuToggle input:checked ~ ul {
+        transform: none;
+
+    }
+
+
+
     /*--Navigation--*/
-#w0 {
-    display: none
-}
+    #w0 {
+        display: none
+    }
 
-#w0 li {
-    display: none
-}
+    #w0 li {
+        display: none
+    }
 
-#w0 li a {
-   display: none
-}
+    #w0 li a {
+        display: none
+    }
 
-#w0 li a:hover {
-    display: none
-}
+    #w0 li a:hover {
+        display: none
+    }
 
-#w0 #a1{
-    display: none
-}
+    #w0 #a1 {
+        display: none
+    }
 
-#w1 {
-    display: none
-}
-/*--/Navigation--*/
+    #w1 {
+        display: none
+    }
 
-.weihnachten-bg{
-    background-image: url(bilder/w2@2x.png);
-    background-color: #1E243B;
-}
+    /*--/Navigation--*/
 
-.weihnachten{
-    
-    background-image: url();
-    background-size: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: transparent;
-    height: 600px
-}
+    .weihnachten-bg {
+        background-image: url(bilder/w2@2x.png);
+        background-color: #1E243B;
+    }
 
-/*--Paragraphen3--*/
-.x{
-    width: 671px;
-    float: right;
-    margin-top: 100px;
-    margin-right: 30px;
-}
+    .weihnachten {
 
-#x0{
-    margin-bottom: -300px;
-    margin: 0 auto;
-    padding: 3px;
-    overflow: hidden;
-    margin-top: 16px;
-}
+        background-image: url();
+        background-size: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-color: transparent;
+        height: 600px
+    }
 
-#x0 li{
-    font-size: 22px;
-    margin-top:0px;
-    color: #fff
-}
-
-
-/*--/Paragraphen3--*/
-    
-    
-/*--Paragraphen3--*/
-    
+    /*--Paragraphen3--*/
     .x {
-         max-width: 100%;
+        width: 671px;
+        float: right;
+        margin-top: 100px;
+        margin-right: 30px;
+    }
+
+    #x0 {
+        margin-bottom: -300px;
+        margin: 0 auto;
+        padding: 3px;
+        overflow: hidden;
+        margin-top: 16px;
+    }
+
+    #x0 li {
+        font-size: 22px;
+        margin-top: 0px;
+        color: #fff
+    }
+
+
+    /*--/Paragraphen3--*/
+
+
+    /*--Paragraphen3--*/
+
+    .x {
+        max-width: 100%;
         margin-top: 20px;
         margin-left: 10px;
         margin-right: 13px;
         float: right;
         margin-bottom: -50px
-
     }
 
     #x0 {
@@ -1682,7 +1697,7 @@ li#x1{
     #x0 li {
         display: block;
         float: left;
-        
+
         font-size: 20px;
         text-decoration: none;
         color: #fff;
@@ -1692,13 +1707,14 @@ li#x1{
         margin-left: 25px;
         text-align: justify
     }
-    
-    li#x1{
-    font-size: 22px;
-    margin-top:40px;
+
+    li#x1 {
+        font-size: 22px;
+        margin-top: 40px;
         margin-bottom: 50px;
-    color: #fff
-}
+        color: #fff
+    }
+
     /*--/Paragraphen3--*/
 
 
