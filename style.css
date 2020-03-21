@@ -185,6 +185,7 @@ hr {
     margin-top: 20px;
     text-align: justify;
     white-space: pre-wrap;
+    word-wrap: normal;
     margin-top: 25px;
     font-size: 19px;
     font-weight: normal;
