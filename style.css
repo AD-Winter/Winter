@@ -166,6 +166,35 @@ hr {
 /*--/Paragraphen--*/
 
 
+
+/*--Meldung--*/
+.nina {
+    width: 950px;
+    height:255px;
+    margin: 0 auto;
+    background-color: #C3C1C0;
+    margin-top: 10px;
+    margin-bottom: -40px
+}
+
+#nina0 {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 14px;
+    overflow: hidden;
+    margin-top: 20px;
+    text-align: justify;
+    white-space: pre-wrap;
+    margin-top: 25px;
+    font-size: 19px;
+    font-weight: normal;
+    line-height: 140%;
+}
+
+/*--/Meldung--*/
+
+
+
 /*--Footer--*/
 .e {
     width: 400px;
