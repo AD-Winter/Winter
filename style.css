@@ -709,7 +709,7 @@ li#x1 {
 /*--/Paragraphen3--*/
 
 
-/*--Mobil--*/
+/*--Mobil--------Mobil---------------Mobil-------------Mobil--------------Mobil-------------------Mobil----------------*/
 @media (max-width: 600px) {
 
     /*--Display:None--*/
@@ -725,6 +725,11 @@ li#x1 {
         display: none
     }
 
+    /*--Meldung--*/
+    .nina {
+    display: none;
+    }
+    /*--/Meldung--*/
 
     /*--/Display:None--*/
 
