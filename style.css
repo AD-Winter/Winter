@@ -170,11 +170,11 @@ hr {
 /*--Meldung--*/
 .nina {
     width: 950px;
-    height:255px;
+    height: 255px;
     margin: 0 auto;
     background-color: #C3C1C0;
     margin-top: 10px;
-    margin-bottom: -40px
+    margin-bottom: -40px;
 }
 
 #nina0 {
@@ -182,13 +182,28 @@ hr {
     margin: 0 auto;
     padding: 14px;
     overflow: hidden;
-    margin-top: 20px;
     text-align: justify;
     white-space: pre-wrap;
     word-wrap: normal;
     margin-top: 25px;
     font-size: 19px;
     font-weight: normal;
+    line-height: 140%;
+}
+
+#nina1 {
+    color:red;
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 14px;
+    overflow: hidden;
+    text-align: justify;
+    white-space: pre-wrap;
+    word-wrap: normal;
+    margin-top: -11px;
+    margin-bottom: -52px;
+    font-size: 19px;
+    font-weight: bold;
     line-height: 140%;
 }
 
