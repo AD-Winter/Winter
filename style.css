@@ -641,7 +641,7 @@ hr {
 .ttt {
     margin-top: -65px;
     border-spacing: 0px 70px;
- 
+
 }
 
 
@@ -730,7 +730,7 @@ hr {
 }
 
 
-#q0{
+#q0 {
     display: none;
 }
 
@@ -1050,12 +1050,13 @@ li#x1 {
         display: none
     }
 
-    
-    .ttt {
-    border-spacing: 0px 70px;
-    display: none;
 
-}
+    .ttt {
+        border-spacing: 0px 70px;
+        display: none;
+
+    }
+
     /*--/Galerie--*/
 
 
@@ -1535,11 +1536,11 @@ li#x1 {
         position: inherit;
         z-index: 10010
     }
-    
-    
-    
+
+
+
     .nnn {
-    display: none;
+        display: none;
     }
 
 
@@ -1622,10 +1623,10 @@ li#x1 {
         list-style: none;
         font-size: 21.6px
     }
-    
+
     #p2 {
         margin-bottom: 34px;
-        
+
     }
 
     #p4 {
@@ -1674,7 +1675,7 @@ li#x1 {
 
     /*--Karte--*/
     #q0 {
-        width: 91%;
+        width: 90%;
         height: 597px;
         float: center;
         margin: 0 auto;
