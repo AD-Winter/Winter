@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^www\.winter-architektur\.de$ [NC]
+RewriteRule ^(.*)$ http://winter-architektur.de/$1 [L,R=301]
