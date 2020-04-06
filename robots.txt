@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /datenschutz.html
+
+Sitemap: sitemap.xml
