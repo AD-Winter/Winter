@@ -110,7 +110,7 @@ hr {
     margin: 0 auto;
     padding: 3px;
     overflow: hidden;
-    margin-top: 16px
+    margin-top: 36px;
 }
 
 #c0 li {
@@ -130,6 +130,7 @@ hr {
 .d {
     width: 950px;
     margin: 0 auto;
+    margin-bottom: -40px;
 
 }
 
@@ -138,11 +139,10 @@ hr {
     margin: 0 auto;
     padding: 3px;
     overflow: hidden;
-    margin-top: 16px;
     width: 600px;
     margin-right: 351px;
     float: left;
-    margin-top: 107px
+    margin-top: 107px;
 }
 
 #d0 li {
@@ -175,6 +175,7 @@ hr {
     background-color: #C3C1C0;
     margin-top: 10px;
     margin-bottom: -40px;
+    display: none;
 }
 
 #nina0 {
@@ -215,7 +216,7 @@ hr {
 .e {
     width: 400px;
     margin: 0 auto;
-    margin-top: 300px
+    margin-top: 340px
 }
 
 #e0 {
